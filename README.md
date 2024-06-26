@@ -1,6 +1,6 @@
 # Schedubuddy
 
-[Schedubuddy](https://schedubuddy.com/) is a web application that generates university schedules and displays them in a familiar format. This repository contains the front-end code for the application. For the back-end, please refer to this [repository](https://github.com/Exanut/schedubuddy-server).
+Schedubuddy is a web application that generates university schedules and displays them in a familiar format. This repository contains the front-end code for the application.
 
 ## Table of Contents
 
@@ -59,16 +59,6 @@ Find an empty room to study in.
 
 ![Free Room Finder](https://github.com/aarctan/schedubuddy-web/assets/60676925/d7944d83-a59c-48ad-8c07-23b1d6fc6575)
 
-## Installation
-
-To set up the project for development, you will need Node.js and npm installed on your system. Then, clone the repo, install dependencies, and start the server:
-
-```bash
-git clone https://github.com/Exanut/schedubuddy-web.git
-cd schedubuddy-web
-npm install
-npm start
-```
 
 ## Contributing
 
